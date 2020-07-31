@@ -21,9 +21,9 @@ This includes the following VOD providers:
 - [Skylink.cz](https://livetv.skylink.cz/) *-- Czechia*
 - [Skylink.sk](https://livetv.skylink.sk/) *-- Slovakia*
 - [Teleplaza](https://livetv.teleplaza.nl/) *-- The Netherlands*
-- [TéléSat](https://livetv.telesat.be/) *-- Wallonia, Brussels*
+- [TéléSat](https://livetv.telesat.be/) *-- Belgium (Wallonia & Brussels)*
 - [TriNed](https://livetv.trined.nl) *--The Netherlands*
-- [TV Vlaanderen](https://livetv.tv-vlaanderen.be/) *-- Flanders*
+- [TV Vlaanderen](https://livetv.tv-vlaanderen.be/) *-- Belgium (Flanders)*
 - [UPC Direct](https://livetv.upcdirect.hu/) *-- Hungary*
 - [VAIBR](https://livetv.vaibr.nl/) *-- The Netherlands*
 
